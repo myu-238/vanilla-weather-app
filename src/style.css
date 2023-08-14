@@ -74,7 +74,7 @@ li::first-letter {
 
 .weather-forecast {
     margin-top: 20px;
-    text-decoration: center;
+    text-align: center;
     color: #000;
 }
 
